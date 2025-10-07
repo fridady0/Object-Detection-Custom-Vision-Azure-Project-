@@ -11,6 +11,7 @@ This tutorial provides a complete, step-by-step guide from dataset preparation t
 # 🎥 Project Demo
 
 # 👉 Watch the Full Tutorial on YouTube: https://www.youtube.com/watch?v=HY2Y0BfD8aY
+[![Watch the video](https://img.youtube.com/vi/HY2Y0BfD8aY/0.jpg)](https://youtu.be/HY2Y0BfD8aY)
 
 
 # Features
